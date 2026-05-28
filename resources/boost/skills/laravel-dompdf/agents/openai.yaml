@@ -1,0 +1,7 @@
+interface:
+  display_name: "Laravel DOMPDF"
+  short_description: "Laravel PDF generation with DOMPDF"
+  default_prompt: "Use $laravel-dompdf to add or troubleshoot PDF generation with barryvdh/laravel-dompdf in this Laravel app."
+
+policy:
+  allow_implicit_invocation: true
