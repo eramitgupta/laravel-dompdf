@@ -13,6 +13,8 @@ This skill is based on the local `barryvdh/laravel-dompdf` package source.
   - Supports `setPdfA`, `addEmbeddedFile`, `setAdditionalXmpRdf`, and `setEncryption`
 - `config/dompdf.php`
   - Holds DOMPDF defaults and security-sensitive options
+- `resources/example.md`
+  - Provides copyable Laravel examples for downloads, streams, saved PDFs, options, PDF/A, and remote assets
 
 ## Package Facts Worth Remembering
 

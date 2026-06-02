@@ -15,6 +15,7 @@ Use `search-docs` when it is available for Laravel integration details. For pack
 - `config/dompdf.php`
 - `src/PDF.php`
 - `src/ServiceProvider.php`
+- `references/example.md`
 - `references/package.md`
 
 ## Installation
@@ -49,6 +50,18 @@ Useful output methods:
 - `stream('file.pdf')` renders inline in the browser
 - `save('path/file.pdf', $disk)` stores the generated PDF
 - `output()` returns the raw PDF bytes for mail attachments or custom storage
+
+## Examples
+
+Use `resources/example.md` for copyable Laravel examples covering:
+
+- Downloading a PDF from a Blade view
+- Streaming a PDF inline in the browser
+- Generating from an HTML string
+- Saving to a path or Laravel filesystem disk
+- Setting paper size, orientation, DPI, and default font
+- Enabling PDF/A mode
+- Enabling remote images with trusted hosts
 
 ## Working Pattern
 
