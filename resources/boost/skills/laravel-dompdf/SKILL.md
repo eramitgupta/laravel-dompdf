@@ -2,8 +2,6 @@
 name: laravel-dompdf
 description: "Activate when the user is generating, downloading, streaming, saving, or configuring PDFs in a Laravel app with barryvdh/laravel-dompdf. Use for Pdf::loadView(), Pdf::loadHTML(), Pdf::loadFile(), output(), save(), stream(), download(), setPaper(), setOption(), setWarnings(), setPdfA(), addEmbeddedFile(), setAdditionalXmpRdf(), config/dompdf.php, vendor publishing, font configuration, remote asset loading, PDF/A, invoice PDFs, report exports, attachment rendering, or debugging DOMPDF output in Laravel."
 license: MIT
-metadata:
-  author: laravel
 ---
 
 # Laravel DOMPDF
