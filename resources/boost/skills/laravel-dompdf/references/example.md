@@ -2,11 +2,7 @@
 
 This file shows common ways to generate PDFs with `barryvdh/laravel-dompdf` in a Laravel application.
 
-## Install
-
-```bash
-composer require barryvdh/laravel-dompdf
-```
+## Configuration
 
 Publish the configuration when you need to customize DOMPDF options:
 

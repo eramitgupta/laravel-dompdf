@@ -18,13 +18,7 @@ Use `search-docs` when it is available for Laravel integration details. For pack
 - `references/example.md`
 - `references/package.md`
 
-## Installation
-
-Install the package with Composer:
-
-```bash
-composer require barryvdh/laravel-dompdf
-```
+## Configuration
 
 Laravel auto-discovers the service provider and facade aliases. Publish the config when the app needs local overrides:
 
